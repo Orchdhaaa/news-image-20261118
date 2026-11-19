@@ -1,5 +1,9 @@
 # The World — Wednesday, 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Orchdhaaa/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Orchdhaaa/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 An entry for make.fun's "Sum up 18 November's world news in one image" bounty.
 
 The image is a newspaper front page. The masthead reads "THE WORLD" and the
@@ -67,3 +71,7 @@ output.
 
 - `main.ts` — the program (the entrypoint). It copies and verifies the image.
 - `entry.png` — the picture: the front page itself.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=1kansq7j&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
